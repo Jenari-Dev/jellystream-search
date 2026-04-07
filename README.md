@@ -38,8 +38,8 @@ This method is fast but the patch will be lost when the Jellyfin Docker image is
 ```bash
 mkdir -p ~/jellystream
 cd ~/jellystream
-wget https://raw.githubusercontent.com/TheOldSchoolModder/jellystream-search/main/jellystream-search.js
-wget https://raw.githubusercontent.com/TheOldSchoolModder/jellystream-search/main/install-search-plugin.sh
+wget https://raw.githubusercontent.com/Jenari-Dev/jellystream-search/main/jellystream-search.js
+wget https://raw.githubusercontent.com/Jenari-Dev/jellystream-search/main/install-search-plugin.sh
 chmod +x install-search-plugin.sh
 ```
 
@@ -64,8 +64,8 @@ This method uses a custom Docker entrypoint that patches Jellyfin automatically 
 ```bash
 mkdir -p ~/jellystream
 cd ~/jellystream
-wget https://raw.githubusercontent.com/TheOldSchoolModder/jellystream-search/main/jellystream-search.js
-wget https://raw.githubusercontent.com/TheOldSchoolModder/jellystream-search/main/jellystream-entrypoint.sh
+wget https://raw.githubusercontent.com/Jenari-Dev/jellystream-search/main/jellystream-search.js
+wget https://raw.githubusercontent.com/Jenari-Dev/jellystream-search/main/jellystream-entrypoint.sh
 chmod +x jellystream-entrypoint.sh
 ```
 
@@ -152,7 +152,7 @@ To update to a newer version of JellyStream Search:
 
 ```bash
 cd ~/jellystream
-wget -O jellystream-search.js https://raw.githubusercontent.com/TheOldSchoolModder/jellystream-search/main/jellystream-search.js
+wget -O jellystream-search.js https://raw.githubusercontent.com/Jenari-Dev/jellystream-search/main/jellystream-search.js
 docker restart jellyfin
 ```
 
@@ -219,7 +219,7 @@ docker rm jellyfin
 
 ## Credits
 
-- **Author:** [Kain (jenariskywalker / TheOldSchoolModder)](https://github.com/TheOldSchoolModder)
+- **Author:** [Kain (jenariskywalker / Jenari-Dev)](https://github.com/Jenari-Dev)
 - **Inspired by:** Disney+ and Netflix search interfaces
 - **Built for:** The Jellyfin community
 
