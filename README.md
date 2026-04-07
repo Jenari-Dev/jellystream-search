@@ -219,7 +219,7 @@ docker rm jellyfin
 
 ## Credits
 
-- **Author:** [Kain (jenariskywalker / Jenari-Dev)](https://github.com/Jenari-Dev)
+- **Author:** [(jenariskywalker / Jenari-Dev)](https://github.com/Jenari-Dev)
 - **Inspired by:** Disney+ and Netflix search interfaces
 - **Built for:** The Jellyfin community
 
