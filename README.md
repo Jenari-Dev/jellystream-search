@@ -19,7 +19,9 @@ A Disney+ inspired visual search plugin for Jellyfin that replaces the default t
 
 ## Screenshots
 
-*Coming soon*
+<img width="3765" height="1927" alt="Image" src="https://github.com/user-attachments/assets/26b01207-71f0-4709-9cd5-8db3e2f87ea6" />
+
+<img width="3753" height="1927" alt="Image" src="https://github.com/user-attachments/assets/cbc6a176-040e-489b-ac80-0f9459a97314" />
 
 ## Requirements
 
